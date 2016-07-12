@@ -11,12 +11,12 @@
 3. Enviroment: CentOS 7.0 (I may work with other linux versions)
 
 4. How to build 
-   . mkdir build 
-   . cd build 
-   . cmake ../
-   . make 
+   - mkdir build 
+   - cd build 
+   - cmake ../
+   - make 
 5. How to run 
-   . ./main 
+   - ./main 
 6. Note: 
    You may able to change your cost matrix in main.cpp. 
   
